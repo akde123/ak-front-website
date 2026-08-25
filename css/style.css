@@ -444,7 +444,7 @@ h2 { font-size: 34px; }
 .footer-legal a:hover { color: var(--white); }
 
 /* Legal pages (Impressum / Datenschutz) ---------------------------------------------- */
-.legal-page { padding: 160px 0 96px; max-width: 760px; }
+.legal-page { padding-top: 160px; padding-bottom: 96px; max-width: 760px; }
 
 .legal-page h1 { font-size: 32px; margin-bottom: 24px; }
 
